@@ -1,2 +1,2 @@
-GetFOVAngle: 0xF4
-DrawTransition: 111
+GetFOVAngle: VTable (0xF4) index (244)
+DrawTransition: VTable(0x6F) index (111)
