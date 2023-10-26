@@ -1,2 +1,2 @@
-GetFOVAngle: dumping...
+GetFOVAngle: 0xF4
 DrawTransition: 111
